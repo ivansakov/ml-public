@@ -2,7 +2,7 @@
 
 **Machine Learning projects for tabular data repository**
 
-This repository is a collection of machine learning models specifically designed for tabular data analysis. It serves as a valuable resource for public projects in the field of machine learning, providing a wide range of models that are optimized for working with structured tabular datasets.
+This repository is a collection of machine learning projects specifically designed for tabular data analysis. It serves as a valuable resource for public projects in the field of machine learning, providing a wide range of models that are optimized for working with structured tabular datasets.
 
 Key Features:
 - **Diverse Collection of Models**: The repository offers an extensive selection of machine learning models suitable for various tasks involving tabular data, including classification, regression, and clustering. These models can be readily utilized in public projects, enabling researchers and developers to leverage their capabilities for solving real-world problems.
