@@ -10,4 +10,3 @@ Key Features:
 - **Comprehensive Evaluation Metrics**: The repository provides a comprehensive set of evaluation metrics to assess the performance of the models. These metrics, such as accuracy, precision, recall, F1-score, and area under the ROC curve (AUC-ROC), enable rigorous evaluation and comparison of different models in public projects.
 - **Seamless Integration and Adaptability**: The models are implemented using popular Python machine learning libraries like scikit-learn and LightGBM. This makes it easy to integrate them into existing public projects and adapt them to specific use cases, facilitating rapid development and experimentation.
 
-Please note that while the models in this repository have been carefully implemented, it is essential to thoroughly evaluate their performance and suitability for specific datasets and project objectives in the public domain.
