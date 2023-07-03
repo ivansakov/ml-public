@@ -1,12 +1,35 @@
-# ml-public
 
-**Machine Learning projects for tabular data repository**
 
-This repository is a collection of machine learning projects specifically designed for tabular data analysis. It serves as a valuable resource for public projects in the field of machine learning, providing a wide range of models that are optimized for working with structured tabular datasets.
+# Yandex.Practicum Data Science Projects
 
-Key Features:
-- **Diverse Collection of Models**: The repository offers an extensive selection of machine learning models suitable for various tasks involving tabular data, including classification, regression, and clustering. These models can be readily utilized in public projects, enabling researchers and developers to leverage their capabilities for solving real-world problems.
-- **Robust and Efficient Performance**: The models in this repository are built to handle large-scale tabular datasets encountered in public projects. They are equipped with scalable algorithms and techniques that ensure robustness, efficiency, and reliable performance in diverse scenarios.
-- **Comprehensive Evaluation Metrics**: The repository provides a comprehensive set of evaluation metrics to assess the performance of the models. These metrics, such as accuracy, precision, recall, F1-score, and area under the ROC curve (AUC-ROC), enable rigorous evaluation and comparison of different models in public projects.
-- **Seamless Integration and Adaptability**: The models are implemented using popular Python machine learning libraries like scikit-learn and LightGBM. This makes it easy to integrate them into existing public projects and adapt them to specific use cases, facilitating rapid development and experimentation.
+[![Yandex.Practicum](https://raw.githubusercontent.com/ivansakov/wdl-2023/main/Data/yandex_practicum_l.png)](https://practicum.yandex.ru/)
+
+
+Repository containing a portfolio of data science projects completed during the training courses at [Yandex.Practicum](https://practicum.yandex.ru/).
+Presented in the form of Jupyter Notebooks and readme markdown files.
+
+
+<table width=100% valign=top >
+  <tr>
+    <td width=25%>Project</td>
+    <td>Description</td>
+    <td width=20%>Used libraries</td>
+  </tr>
+        <tr>
+    <td><a href="https://github.com/ivansakov/yandex-practicum-ds-projects/tree/main/bank-churn">Customer Churn Prediction for a Bank</a></td>
+    <td>The bank is experiencing a steady but noticeable decline in customer retention. To address this issue, the marketing team has determined that it's more cost-effective to retain existing customers than to acquire new ones. Hence, the aim of this project is to build a customer churn prediction model. The model will utilize historical data on customer behavior and contract terminations to forecast whether a customer is likely to leave the bank in the near future.</td>
+    <td>Python, Numpy, Seaborn, Matplotlib, Scikit-learn, Pandas, Jupyter Notebook, LightGBM, Exploratory Data Analysis (EDA), Preprocessing Data, Machine learning</td>
+  </tr>
+      <tr>
+    <td><a href="https://github.com/ivansakov/yandex-practicum-ds-projects/tree/main/telco-churn">Customer Churn Prediction for a Telco</a></td>
+    <td>The telecom operator aims to predict customer churn and provide incentives to customers intending to leave. They have gathered personal data, tariff information, and contract details. The objective of this project is to develop a churn prediction model using binary classification and supervised learning techniques with the available data.</td>
+    <td>Python, Numpy, Seaborn, Matplotlib, Scikit-learn, Pandas, Jupyter Notebook, LightGBM, Exploratory Data Analysis (EDA), Preprocessing Data, Machine learning</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/ivansakov/yandex-practicum-ds-projects/tree/main/semantic-analysis">Semantic analysis of comments</a></td>
+    <td>To improve comment moderation efficiency, the online store automated toxicity assessment. The model was trained to classify comments as toxic or non-toxic, speeding up the moderation process.</td>
+    <td>Python, NLTK, Numpy, Scikit-learn, Pandas, Jupyter Notebook, LightGBM, NLP</td>
+  </tr>
+</table>
+
 
